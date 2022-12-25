@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zainab 
-- 👀 I’m a cloud/devops engineer 
-- 🌱 I’m always trying to improve my knowledge of cloud systems and services. I am actively looking for system/cloud/devops engineering roles and projects. 
+- 👀 I am a cloud/devops engineer 
+- 🌱 I am constantly improving my knowledge of cloud systems and services. I am actively looking for system/cloud/devops engineering roles and projects. 
 - 📫 You can reach me by email at akinlawonjoyz@gmail.com
 
 <!---
