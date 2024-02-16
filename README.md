@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zainab 
-- 👩🏽‍💻 I am a DevOps Engineer 
-- 🌱 I have experience deploying, monitoring and maintaining dependable applications for consumption by a wide range of users.
-- 💡 I have worked with a good number of developers and engineers across various teams, to bring simple and complex applications to life.
+- 👋 Hello there, my name is Zainab. 
+- 👩🏽‍💻 I am a Cloud/DevOps Engineer. 
+- 🌱 I have experience deploying, monitoring and maintaining secure and dependable applications for a wide range of users and usecases. 
+- 💡 I have worked with quite a number of developers and engineers across various engineering teams, bringing simple and complex applications to life.
 - 🤝 I am open to collaborations and work opportunities. 
 - 📫 You can reach me by email at akinlawonjoyz@gmail.com or on LinkedIn at https://www.linkedin.com/in/zainabakinlawon
 
